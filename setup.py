@@ -8,7 +8,7 @@ readme = open("README.md").read()
 
 setup(
     name="airbrake-tornado",
-    version="0.0.1",
+    version="0.0.2",
     description="Airbrake notifier for Tornado web framework.",
     long_description=readme,
     author="Karlis Lauva",

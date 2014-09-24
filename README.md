@@ -6,9 +6,7 @@ Airbrake notifier for Tornado web framework.
 
 Install via pip:
 
-    pip install git+ssh://git@github.com/fullcontact/airbrake-tornado.git
-
-When things become more stable, it will most likely be added to PyPi too.
+    pip install airbrake-tornado
 
 ## Usage
 
