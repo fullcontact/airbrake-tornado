@@ -12,11 +12,11 @@ setup(
     description="Airbrake notifier for Tornado web framework.",
     long_description=readme,
     author="Karlis Lauva",
-    author_email="karlis@fullcontact.com",
+    author_email="skazhy@gmail.com",
     url="https://github.com/fullcontact/airbrake-tornado",
     license="MIT",
     packages=["airbrake"],
     install_requires=[
-        "tornado>=3.2",  # TODO: test with 2.X
+        "tornado>=3.2",
     ],
 )
